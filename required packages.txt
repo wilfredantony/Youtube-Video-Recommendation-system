@@ -8,3 +8,4 @@ scikit-learn
 boto3
 matplotlib
 google api
+seaborn
