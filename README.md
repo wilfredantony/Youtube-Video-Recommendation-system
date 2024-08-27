@@ -25,7 +25,7 @@ The following steps can be done to achieve the application
   ##MODEL TRAINING
        >Here I have clustered the based on the genres that I have extracted.
        >Use TfidfVectorizer to change the data of the selected column to numerical matrix.
-       >Apply Principle Component Analysis(PCA) for dimensionality reduction for visualization.
+       >Apply Principal Component Analysis(PCA) for dimensionality reduction for visualization.
        >Then cluster the data using KMeans clustering.
        >After model training save the data to Database and save teh models as a pickle file.
   ##STREAMLIT APPLICATION
